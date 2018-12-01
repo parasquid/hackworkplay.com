@@ -1,13 +1,15 @@
 baseURL = "https://www.hackworkplay.com/"
-languageCode = "en-us"
-title = "Hack • Work • Play"
+theme = "casper-two"
+languageCode = "en-US"
 
 [permalinks]
   post = "/:year/:month/:day/:title/"
 
 [params]
+    title = "Hack • Work • Play"
+    subtitle = "Made in the Tangible Universe"
     author = "parasquid"
-    authoravatar = "https://www.gravatar.com/avatar/e00d9254088a9db2e1875fc324402e2c"
+    authorAvatar = "https://www.gravatar.com/avatar/e00d9254088a9db2e1875fc324402e2c"
     logo = "https://res.cloudinary.com/psqd/image/upload/v1543673644/emblemmatic-hack-work-play-logo-154.png"
-    description = "Made in the Tangible Universe"
     cover = "https://res.cloudinary.com/psqd/image/upload/q_auto:best/v1543673652/vintage-music-business-shop-resized.jpg"
+    singleViewStyle = "casper"
