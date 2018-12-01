@@ -1,5 +1,5 @@
 baseURL = "https://www.hackworkplay.com/"
-theme = "casper-two"
+theme = "hugo-casper-two"
 languageCode = "en-US"
 
 [permalinks]
