@@ -24,7 +24,7 @@ The next step is to remove the grill at the top of the keyboard. You can use a f
 One thing you'll need to be very careful of is the keyboard ribbon cable. The cable attaches near the center of the keybaord, and it's tempting to just lift the keyboard away after the five screws have been removed. Remember, **lift the keyboard gently up and then turn it upside down** so you don't damage the ribbon cable.
 
 ![Keyboard Rainbow Cable](https://res.cloudinary.com/psqd/image/upload/q_auto:best/v1543672169/DSC1486.resized.jpg)
-*be careful when trying to lift up the keyboard as the rainbow cable might hitch and be broken; lift the keyboard assembly slowly*
+*be careful when trying to lift up the keyboard as the rainbow cable might hitch and be broken;<br />lift the keyboard assembly slowly*
 
 You should now be able to see where the old half-mini PCI-E card is at. This module (that's not compatible with MacOS) will be replaced with the new one (that's compatible with MacOS).
 
