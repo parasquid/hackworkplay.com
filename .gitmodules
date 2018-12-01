@@ -1,0 +1,3 @@
+[submodule "themes/hugo-casper-two"]
+	path = themes/hugo-casper-two
+	url = git@github.com:parasquid/hugo-casper-two.git
