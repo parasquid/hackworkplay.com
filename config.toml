@@ -6,6 +6,7 @@ languageCode = "en-US"
   post = "/:year/:month/:day/:title/"
 
 [params]
+    googleAnalytics = "UA-41391404-4"
     title = "Hack • Work • Play"
     subtitle = "Made in the Tangible Universe"
     author = "parasquid"
