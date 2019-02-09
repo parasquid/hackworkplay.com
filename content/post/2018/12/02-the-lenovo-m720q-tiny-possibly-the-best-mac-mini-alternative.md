@@ -1,8 +1,8 @@
 ---
-title: "The Lenovo M720q Tiny: Possibly the Best Mac Mini Alternative"
+title: "The Lenovo ThinkCentre M720q Tiny: Possibly the Best Mac Mini Alternative"
 date: 2018-12-02T02:05:40-08:00
 tags: ["hack", "work", "play", "thinkcentre", "m720q", "tiny", "lenovo"]
-image: https://res.cloudinary.com/psqd/image/upload/q_auto:best/v1543728111/_DSC5184_Medium.jpg
+image: https://res.cloudinary.com/psqd/image/upload/q_auto:best/v1549702023/m720q/IMG_20181129_142417_Medium.jpg
 ---
 **TLDR;** The Lenovo M720q has dimensions, performance, and capabilities almost exactly the same as the mac mini at a more affordable price. You do lose Thunderbolt 3 connectivity as well as having to use an external power supply, but the flexibility the unit gives outweighs these compromises.
 
@@ -41,7 +41,7 @@ The ThinkCentre Tiny is so similar to the Mac Mini that it's difficult not to ma
 | Ports     | 4 thunderbolt ports<br />1 headphone jack<br />1 HDMI 2.0<br />1 Ethernet<br />2 USB-A 3.1 gen 1 | front:<br />1 USB-C 3.1 gen 1<br />1 USB-A 3.1 gen 1<br />1 headphone/mic combo jack<br />1 mic jack<br /><br />back:<br />1 Display Port<br />1 HDMI 2.0<br />2 USB-A 3.1 gen 1<br />2 USB-A 3.1 gen 2<br />1 PCIe x4 low profile<br />(with card giving 2 USB-A 3.1 gen 1) |
 | Memory    | 8GB of 2666MHz DDR4 SO-DIMM memory<br />(dual channel, as configured) | 8GB of 2666MHz DDR4 SO-DIMM memory<br />(single channel, as configured) |
 | Storage   | 128GB PCIe-based SSD                                                  | 512GB NVMe SSD                   |
-| WiFi/BT   | Murata 339S00458 802.11ac BT5.0                                        | RealTek RTL8822BE 802.11ac BT4.2 |
+| WiFi/BT   | Murata 339S00458 802.11ac BT5.0                                       | RealTek RTL8822BE 802.11ac BT4.2 |
 | Size      | 19.7cm x 19.7cm x 3.6cm                                               | 18cm x 18.5cm x 3.6cm (bare unit)|
 | Weight    | 1.3kg                                                                 | 1.32kg (as configured)           |
 
