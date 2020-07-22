@@ -28,6 +28,7 @@ I then added a few more components: power supply (via usb or LiPo), regulators (
 Next up is the firmware. Back when I was playing around with the idea of making my own clicker, I had wanted to use the attiny85 and Arduino to write it. Some (non-updated) code can still be found here: https://github.com/parasquid/mcu-iot-sensors/blob/master/clicker/src/main.cpp
 
 Suffice to say, that project hasn't seen progress:
+
 * It required two kinds of firmware: the USB-HID device (which is what the code above does) and the actual clicker (which I never managed to get to) communicating with each other via a wireless link (probably an nrf24l01)
 * Programming in Arduino cpp isn't a walk in the park. Compiling and uploading takes up more time than you would think, especially when all you want is to play around with responses or to change something trivial.
 
@@ -126,9 +127,11 @@ The keybindings are currently mapped to that of https://revealjs.com/ but the be
 For a Mk-1 prototype, it isn't bad!
 
 Some things I'd want to improve for the next version:
+
 * More buttons. Three is probably not enough. I can multiplex buttons by discrimimating between short and long presses, but even so six buttons is probably not enough.
 * Laser pointer. It would be nice to have some sort of pointing device built-in to the clicker.
 * Better construction. The main module is being propped by a piece of wood underneath and the connecting wires are quite thin; this wound't survive in a bag if I'm going to use it in actual presentations.
 
 Affiliate links:
+
 * {{< open_links_in_target_blank "https://psqd.pw/ebyte-uart" >}}
