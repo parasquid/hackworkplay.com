@@ -11,7 +11,7 @@ I had a spare [nrf52832 UART module](https://psqd.pw/ebyte-uart) lying around an
 ![a Olgictech R700 Professional Wireless Presenter](https://assets.logitech.com/assets/55457/5/r700-gallery.png)
 *Kinda something like this, but more steam-punky*
 
-First, I had to deal with the 2mm pitch of the castellated edges that the chip had. I wanted to eventually use the outout not just as a clicker but also as a discovery board, so I wanted to put it in a small protoboard.
+First, I had to deal with the 2mm pitch of the castellated edges that the chip had. I wanted to eventually use the output not just as a clicker but also as a discovery board, so I wanted to put it in a small protoboard.
 
 At this point I also didn't have the full design in my mind so I thought I would just wing the construction, which means I needed to breakout all the pins upfront and attach them with pin headers so I can make connections as needed.
 
