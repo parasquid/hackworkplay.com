@@ -36,7 +36,7 @@ When using Firefox, you'll notice that using the mouse wheel to scroll web pages
 The NH57AF1 can be quite noisy if all you want to do is watch some videos after work. I use mine as a desktop replacement so it's already a meter away from my ears, but I can still hear it when it tries to cool down the 3900X desktop processor. One easy way of controlling the noise levels is installing the Gnome [cpufreq](https://extensions.gnome.org/extension/1082/cpufreq/) extension.
 
 ![screenshot of the cpufreq extension](https://res.cloudinary.com/psqd/image/upload/v1593330806/nh57af1/cpufreq.png.watermarked.png)
-*I personally switch to the powersave mode which disables four out of the tweleve cores (eight out of the twenty-four threads), limits the maximum frequency to 2.8GHz, and disables power boost.*
+*I personally switch to the powersave mode which disables four out of the twelve cores (eight out of the twenty-four threads), limits the maximum frequency to 2.8GHz, and disables power boost.*
 
 I don't use the powersave mode to preserve battery life; in fact I run the machine without the battery installed since I use it as a desktop replacement (the battery will last longer if it's not always being charged). I use powersave mode so the CPU doesn't run as hot, which means the fans won't turn on as frequently and as loudly as before. The machine is still quite powerful for normal everyday tasks, and when I need the power (such as during app development work) I can easily just switch to performance mode.
 
