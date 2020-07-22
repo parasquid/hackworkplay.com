@@ -130,7 +130,7 @@ Some things I'd want to improve for the next version:
 
 * More buttons. Three is probably not enough. I can multiplex buttons by discrimimating between short and long presses, but even so six buttons is probably not enough.
 * Laser pointer. It would be nice to have some sort of pointing device built-in to the clicker.
-* Better construction. The main module is being propped by a piece of wood underneath and the connecting wires are quite thin; this wound't survive in a bag if I'm going to use it in actual presentations.
+* Better construction. The main module is being propped by a piece of wood underneath and the connecting wires are quite thin; this wouldn't survive in a bag if I'm going to use it in actual presentations.
 
 Affiliate links:
 
