@@ -17,14 +17,12 @@ I had a few things I knew I should be using:
 
 After a couple of hours of soldering and wire wrapping, it works!
 
-![a diy board composed of a zif socket and various wires](https://res.cloudinary.com/psqd/image/upload/v1600853417/hackworkplay/6224541596900139404.jpg)
-
-One tip I've learned through experience is to mark the red line in the ICSP header, just so there is no ambiguity over which side the cable should be.
+![a diy board composed of a zif socket and various wires](https://res.cloudinary.com/psqd/image/upload/v1600853417/hackworkplay/6224541596900139404.jpg)*One tip I've learned through experience is to mark the red line in the ICSP header, just so there is no ambiguity over which side the cable should be.*
 
 ![a diy board composed of a zif socket and various wires](https://res.cloudinary.com/psqd/image/upload/v1600853418/hackworkplay/4733931596900272612.jpg)
 
-![a diy board composed of a zif socket and various wires](https://res.cloudinary.com/psqd/image/upload/v1600853420/hackworkplay/2273531596900230822.jpg)
+![a diy board composed of a zif socket and various wires](https://res.cloudinary.com/psqd/image/upload/v1600853420/hackworkplay/2273531596900230822.jpg)*How do you know when it's working? When it can run blinky of course :)*
 
-How do you know when it's working? When it can run blinky of course :)
+-----
 
-***this post also appears on https://hackaday.io/project/174219-oneoffs/log/181956-attiny85-programmer***
+*this post also appears on https://hackaday.io/project/174219-oneoffs/log/181956-attiny85-programmer*
