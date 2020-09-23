@@ -6,7 +6,7 @@ image: https://res.cloudinary.com/psqd/image/upload/v1595410448/IMG_20200718_194
 ---
 I had a spare [nrf52832 UART module](https://psqd.pw/ebyte-uart) lying around and since the lockdown happened, I've been itching to do something with it. So why not a presentation clicker to prepare for when I get to do in-person meetups again?
 
-<!-- more -->
+<!--more-->
 
 ![a Olgictech R700 Professional Wireless Presenter](https://assets.logitech.com/assets/55457/5/r700-gallery.png)
 *Kinda something like this, but more steam-punky*
