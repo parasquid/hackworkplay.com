@@ -6,9 +6,9 @@ image: https://res.cloudinary.com/psqd/image/upload/v1600853428/hackworkplay/783
 ---
 The You tube algorithm decided to show me some ESP32 Cam videos and I remembered I had a couple in storage. So I thought, why not try it out again and refresh my experience with it?
 
-So I brought out my perfbaord and wire wrapping tools and decided to create a more or less generic board for the module.
-
 <!--more-->
+
+So I brought out my perfboard and wire wrapping tools and decided to create a more or less generic board for the module.
 
 ![Dev board and some wire wrap tools](https://res.cloudinary.com/psqd/image/upload/v1600853428/hackworkplay/7834841597488054290.jpg)
 
