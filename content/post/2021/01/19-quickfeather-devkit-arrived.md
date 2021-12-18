@@ -38,9 +38,9 @@ The difference is that I want to setup the network portion via nodered and adver
 * HPMA115S0-XXX Gas Detection Sensor PM2.5 PM1.0
 * AMS CCS811 eCO2 TVOC sensor
 * TI HDC1080 Temperature sensor
-* Rapsberry Pi 4 (optional, can be replaced with a laptop)
+* Raspberry Pi 4 (optional, can be replaced with a laptop)
 * Node Red
-* Postgres (optional, can be replaced with myql/mariadb)
+* Postgres (optional, can be replaced with mysql/mariadb)
 * Javascript (for visualization)
 
 ## Tell us about yourself. What do you spend most of your time doing? What skills or experience do you have that will enable you to be successful in building this project?
