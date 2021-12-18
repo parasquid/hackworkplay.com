@@ -45,5 +45,8 @@ The difference is that I want to setup the network portion via nodered and adver
 
 ## Tell us about yourself. What do you spend most of your time doing? What skills or experience do you have that will enable you to be successful in building this project?
 
-I'm a software developer with an electronics hobby. I recently did a review of a bluetooth low energy eval board from panasonic here: https://www.element14.com/community/roadTestReviews/3491/l/panasonic-pan-1780-bluetooth-le-eval-kit-review and various other blog posts over at hackaday: https://hackaday.io/projects/hacker/895883
+I'm a software developer with an electronics hobby. I recently did a review of a bluetooth low energy eval board from panasonic and various other blog posts over at hackaday:
+
+* https://www.element14.com/community/roadTestReviews/3491/l/panasonic-pan-1780-bluetooth-le-eval-kit-review
+* https://hackaday.io/projects/hacker/895883
 
