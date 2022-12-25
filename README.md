@@ -13,3 +13,7 @@ Deployed via netlify.com (just push to master and netlify will automatically bui
 For local development:
 
     docker run --rm -it -v $(pwd):/src -p 1313:1313 klakegg/hugo:0.48 server -D
+
+or alternatively, use the helper script which will update the git submodules and run the application in a docker container as above:
+
+    bin/dev
