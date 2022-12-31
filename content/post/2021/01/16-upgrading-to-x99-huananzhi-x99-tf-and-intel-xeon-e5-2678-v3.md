@@ -4,9 +4,11 @@ date: 2021-01-16
 tags: ["hack", "work", "x99", "intel", "unraid"]
 image: https://res.cloudinary.com/psqd/image/upload/q_auto:best/v1610881129/hackworkplay/IMG_20210109_183441.jpg
 ---
-I've been running an i7 3770 (purchased in 2013 from a colleague) as my NAS using [unRAID](https://unraid.net/). Since it's unRAID, I'm not limited to just using it as a NAS but also as a torrent client (for downloading linux distros of course), plex media server, and various dockers for postgres and mysql databases, calibre, syncthing, etc. I'm also running a couple of VMs that I use as my workspace for my work projects through vscode remote.
+I've been running an i7 3770 (purchased in 2013 from a colleague) as my NAS using [unRAID](https://unraid.net/). Since it's unRAID, I'm not limited to just using it as a NAS but also as a torrent client (for downloading linux distros of course), plex media server, and various dockers for postgres and mysql databases, calibre, syncthing, etc.
 
 <!--more-->
+
+I'm also running a couple of VMs that I use as my workspace for my work projects through vscode remote.
 
 ![picture of my old server](https://res.cloudinary.com/psqd/image/upload/q_auto:best/v1610882372/IMG_20201205_161905.jpg)
 *my old i7 3770 server inside a Fractal Design 7 case in storage layout*
